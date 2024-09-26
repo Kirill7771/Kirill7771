@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kirill7771
-- 👀 I’m interested in ...python,сss,html
+- 👀 I’m interested in ...python,сss,html,Laravel,php,Node Js,Yii2,Vue,Flask.
 - 🌱 I’m currently learning ...selenium
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
